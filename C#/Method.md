@@ -16,5 +16,5 @@ Assembly: [Assembly]</sub>
 [Parameter description]
 
 ## Returns
-[Return type]
+[Return type]  
 [Return description]
